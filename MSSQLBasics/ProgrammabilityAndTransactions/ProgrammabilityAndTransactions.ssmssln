@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EmployeesWithSalaryAbove35000", "EmployeesWithSalaryAbove35000\EmployeesWithSalaryAbove35000.ssmssqlproj", "{C789C6AD-8C18-4E8C-9D23-DCABA3F329C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QueriesForSoftUniDatabase", "QueriesForSoftUniDatabase", "{6385B9A8-6875-4937-A548-C6719FD74497}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EmployeesWithSalaryAboveNumber", "EmployeesWithSalaryAboveNumber\EmployeesWithSalaryAboveNumber.ssmssqlproj", "{49EB4191-6916-450C-8DBE-D9E647F01D31}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TownNamesStartingWith", "TownNamesStartingWith\TownNamesStartingWith.ssmssqlproj", "{44CFA634-7098-4D01-A89B-759CDA930E56}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EmployeesFromTown", "EmployeesFromTown\EmployeesFromTown.ssmssqlproj", "{7597A2B6-BF66-41F2-B58C-032E5EB87C43}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SalaryLevelFunction", "SalaryLevelFunction\SalaryLevelFunction.ssmssqlproj", "{189F2DB3-83AC-48EE-96C6-251E2A2B90BD}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "EmployeesBySalaryLevel", "EmployeesBySalaryLevel\EmployeesBySalaryLevel.ssmssqlproj", "{DB8A77DF-212F-4DB9-8065-3E568C5DCF0D}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DefineFunction", "DefineFunction\DefineFunction.ssmssqlproj", "{6C0D9D6C-2AC1-450C-97C4-B148E9BCCBB0}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DeleteEmployeesAndDepartments", "DeleteEmployeesAndDepartments\DeleteEmployeesAndDepartments.ssmssqlproj", "{EBFB8379-8F52-429F-9655-2DA35D14CB6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QueriesForBankDatabase", "QueriesForBankDatabase", "{48A84166-444B-4B12-AA6B-CD83CA54E6D6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "FindFullName", "FindFullName\FindFullName.ssmssqlproj", "{66E8D179-8671-4B27-82B0-1C0F48087A6B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "PeopleWithBalanceHigherThan", "PeopleWithBalanceHigherThan\PeopleWithBalanceHigherThan.ssmssqlproj", "{0706D732-1B88-430A-909B-433963DBEC17}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "FutureValueFunction", "FutureValueFunction\FutureValueFunction.ssmssqlproj", "{A9A9B4D8-81E2-4952-AAAD-93F1966A0D9A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CalculatingInterest", "CalculatingInterest\CalculatingInterest.ssmssqlproj", "{C4BB268B-A603-408A-87CF-947257E6ED34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "QueriesForDiabloDatabase", "QueriesForDiabloDatabase", "{198DB3D3-C498-47F7-8B8B-681C3BD0B469}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CshInUserGamesOddRows", "CshInUserGamesOddRows\CshInUserGamesOddRows.ssmssqlproj", "{EE36AABD-5AB2-45C4-A7C0-A49862AC126E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateTableLogs", "CreateTableLogs\CreateTableLogs.ssmssqlproj", "{778B6ECA-CDE0-4947-A7A4-66AABE9B4E0E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateTableEmails", "CreateTableEmails\CreateTableEmails.ssmssqlproj", "{881D0F24-4AAC-4706-AA19-4EFD5B1DF0AE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DepositMoney", "DepositMoney\DepositMoney.ssmssqlproj", "{8D23A5C9-1D43-4B29-A132-0B7001BBEB34}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "WithdrawMoney", "WithdrawMoney\WithdrawMoney.ssmssqlproj", "{F4968A06-6A54-4B2A-8D2B-02B4F19E4692}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "MoneyTransfer", "MoneyTransfer\MoneyTransfer.ssmssqlproj", "{FC00EE12-1FB0-4BD7-9D8E-0089CEC06258}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Trigger", "Trigger\Trigger.ssmssqlproj", "{3E93E9B0-C6CA-4442-AE1C-BB68CB76223C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "MassiveShopping", "MassiveShopping\MassiveShopping.ssmssqlproj", "{3A94CF24-307E-422C-9BAF-6EAA6E7E271E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C789C6AD-8C18-4E8C-9D23-DCABA3F329C3}.Default|Default.ActiveCfg = Default
+		{49EB4191-6916-450C-8DBE-D9E647F01D31}.Default|Default.ActiveCfg = Default
+		{44CFA634-7098-4D01-A89B-759CDA930E56}.Default|Default.ActiveCfg = Default
+		{7597A2B6-BF66-41F2-B58C-032E5EB87C43}.Default|Default.ActiveCfg = Default
+		{189F2DB3-83AC-48EE-96C6-251E2A2B90BD}.Default|Default.ActiveCfg = Default
+		{DB8A77DF-212F-4DB9-8065-3E568C5DCF0D}.Default|Default.ActiveCfg = Default
+		{6C0D9D6C-2AC1-450C-97C4-B148E9BCCBB0}.Default|Default.ActiveCfg = Default
+		{EBFB8379-8F52-429F-9655-2DA35D14CB6C}.Default|Default.ActiveCfg = Default
+		{66E8D179-8671-4B27-82B0-1C0F48087A6B}.Default|Default.ActiveCfg = Default
+		{0706D732-1B88-430A-909B-433963DBEC17}.Default|Default.ActiveCfg = Default
+		{A9A9B4D8-81E2-4952-AAAD-93F1966A0D9A}.Default|Default.ActiveCfg = Default
+		{C4BB268B-A603-408A-87CF-947257E6ED34}.Default|Default.ActiveCfg = Default
+		{EE36AABD-5AB2-45C4-A7C0-A49862AC126E}.Default|Default.ActiveCfg = Default
+		{AFFC132A-1AC5-47EE-93D8-9C15D3AA9901}.Default|Default.ActiveCfg = Default
+		{778B6ECA-CDE0-4947-A7A4-66AABE9B4E0E}.Default|Default.ActiveCfg = Default
+		{881D0F24-4AAC-4706-AA19-4EFD5B1DF0AE}.Default|Default.ActiveCfg = Default
+		{8D23A5C9-1D43-4B29-A132-0B7001BBEB34}.Default|Default.ActiveCfg = Default
+		{F4968A06-6A54-4B2A-8D2B-02B4F19E4692}.Default|Default.ActiveCfg = Default
+		{FC00EE12-1FB0-4BD7-9D8E-0089CEC06258}.Default|Default.ActiveCfg = Default
+		{3E93E9B0-C6CA-4442-AE1C-BB68CB76223C}.Default|Default.ActiveCfg = Default
+		{3A94CF24-307E-422C-9BAF-6EAA6E7E271E}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C789C6AD-8C18-4E8C-9D23-DCABA3F329C3} = {6385B9A8-6875-4937-A548-C6719FD74497}
+		{49EB4191-6916-450C-8DBE-D9E647F01D31} = {6385B9A8-6875-4937-A548-C6719FD74497}
+		{44CFA634-7098-4D01-A89B-759CDA930E56} = {6385B9A8-6875-4937-A548-C6719FD74497}
+		{7597A2B6-BF66-41F2-B58C-032E5EB87C43} = {6385B9A8-6875-4937-A548-C6719FD74497}
+		{189F2DB3-83AC-48EE-96C6-251E2A2B90BD} = {6385B9A8-6875-4937-A548-C6719FD74497}
+		{DB8A77DF-212F-4DB9-8065-3E568C5DCF0D} = {6385B9A8-6875-4937-A548-C6719FD74497}
+		{6C0D9D6C-2AC1-450C-97C4-B148E9BCCBB0} = {6385B9A8-6875-4937-A548-C6719FD74497}
+		{EBFB8379-8F52-429F-9655-2DA35D14CB6C} = {6385B9A8-6875-4937-A548-C6719FD74497}
+		{66E8D179-8671-4B27-82B0-1C0F48087A6B} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{0706D732-1B88-430A-909B-433963DBEC17} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{A9A9B4D8-81E2-4952-AAAD-93F1966A0D9A} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{C4BB268B-A603-408A-87CF-947257E6ED34} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{EE36AABD-5AB2-45C4-A7C0-A49862AC126E} = {198DB3D3-C498-47F7-8B8B-681C3BD0B469}
+		{778B6ECA-CDE0-4947-A7A4-66AABE9B4E0E} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{881D0F24-4AAC-4706-AA19-4EFD5B1DF0AE} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{8D23A5C9-1D43-4B29-A132-0B7001BBEB34} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{F4968A06-6A54-4B2A-8D2B-02B4F19E4692} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{FC00EE12-1FB0-4BD7-9D8E-0089CEC06258} = {48A84166-444B-4B12-AA6B-CD83CA54E6D6}
+		{3E93E9B0-C6CA-4442-AE1C-BB68CB76223C} = {198DB3D3-C498-47F7-8B8B-681C3BD0B469}
+		{3A94CF24-307E-422C-9BAF-6EAA6E7E271E} = {198DB3D3-C498-47F7-8B8B-681C3BD0B469}
+	EndGlobalSection
+EndGlobal

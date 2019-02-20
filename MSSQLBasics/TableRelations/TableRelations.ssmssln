@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "OneToOneRelationship", "OneToOneRelationship\OneToOneRelationship.ssmssqlproj", "{D20A5A53-23E0-4BB2-AF62-440FB6466DD6}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "OneToManyRelationship", "OneToManyRelationship\OneToManyRelationship.ssmssqlproj", "{9E254ADE-3F01-4457-A983-649B14D8CEFC}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ManyToManyRelationship", "ManyToManyRelationship\ManyToManyRelationship.ssmssqlproj", "{90FD0D84-C10E-472B-B007-6734CA134F7F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Self-Referencing", "Self-Referencing\Self-Referencing.ssmssqlproj", "{040060FA-5B72-4C7D-B243-A2EB5ACE546E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "PeaksInRila", "PeaksInRila\PeaksInRila.ssmssqlproj", "{BAB00BE8-FCF9-4390-887E-86ECB5337A0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20A5A53-23E0-4BB2-AF62-440FB6466DD6}.Default|Default.ActiveCfg = Default
+		{87C0560D-848A-4BEE-996F-959B805DDEA9}.Default|Default.ActiveCfg = Default
+		{9E254ADE-3F01-4457-A983-649B14D8CEFC}.Default|Default.ActiveCfg = Default
+		{90FD0D84-C10E-472B-B007-6734CA134F7F}.Default|Default.ActiveCfg = Default
+		{040060FA-5B72-4C7D-B243-A2EB5ACE546E}.Default|Default.ActiveCfg = Default
+		{BAB00BE8-FCF9-4390-887E-86ECB5337A0C}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

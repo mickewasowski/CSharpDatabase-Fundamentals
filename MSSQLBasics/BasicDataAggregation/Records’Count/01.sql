@@ -1,0 +1,1 @@
+SELECT COUNT(FirstName) AS [Count] FROM WizzardDeposits

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CreateSoftUniDatabase", "CreateSoftUniDatabase\CreateSoftUniDatabase.ssmssqlproj", "{ADD8350B-AA63-4EFB-A3AE-B5D368F08AF7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BackUpDatabase", "BackUpDatabase\BackUpDatabase.ssmssqlproj", "{B4947B67-43F9-469E-993E-834D73778194}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BasicInsert", "BasicInsert\BasicInsert.ssmssqlproj", "{FA0C35F0-62D4-4C10-A0A7-0FB27E620422}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BasicSelectAllFields", "BasicSelectAllFields\BasicSelectAllFields.ssmssqlproj", "{15D3614F-036F-4D18-8517-3301CCDBF2D7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BasicSelectAllFieldsAndOrderThem", "BasicSelectAllFieldsAndOrderThem\BasicSelectAllFieldsAndOrderThem.ssmssqlproj", "{DB5D22F6-293F-4028-A671-4EC0A2AA2C92}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BAsicSelectSomeFields", "BAsicSelectSomeFields\BAsicSelectSomeFields.ssmssqlproj", "{ED7164B4-FDAD-44AA-B0CC-C65785B1CA38}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "IncreaseEmployeesSalary", "IncreaseEmployeesSalary\IncreaseEmployeesSalary.ssmssqlproj", "{667310E5-F052-4B89-B8D9-03F9BF7E0B5E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DecreaseTaxRate", "DecreaseTaxRate\DecreaseTaxRate.ssmssqlproj", "{F7940959-EF08-41CB-B9F2-EBA61C36C435}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DeleteAllRecords", "DeleteAllRecords\DeleteAllRecords.ssmssqlproj", "{A7AD6E66-EF49-41CA-BCC9-C7F184FEA0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD8350B-AA63-4EFB-A3AE-B5D368F08AF7}.Default|Default.ActiveCfg = Default
+		{34B69B44-BE15-4CD7-88B0-A3A8EF14251B}.Default|Default.ActiveCfg = Default
+		{B4947B67-43F9-469E-993E-834D73778194}.Default|Default.ActiveCfg = Default
+		{FA0C35F0-62D4-4C10-A0A7-0FB27E620422}.Default|Default.ActiveCfg = Default
+		{15D3614F-036F-4D18-8517-3301CCDBF2D7}.Default|Default.ActiveCfg = Default
+		{DB5D22F6-293F-4028-A671-4EC0A2AA2C92}.Default|Default.ActiveCfg = Default
+		{ED7164B4-FDAD-44AA-B0CC-C65785B1CA38}.Default|Default.ActiveCfg = Default
+		{667310E5-F052-4B89-B8D9-03F9BF7E0B5E}.Default|Default.ActiveCfg = Default
+		{F7940959-EF08-41CB-B9F2-EBA61C36C435}.Default|Default.ActiveCfg = Default
+		{A7AD6E66-EF49-41CA-BCC9-C7F184FEA0C7}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
