@@ -1,0 +1,3 @@
+many to many
+one to many
+self referencing 

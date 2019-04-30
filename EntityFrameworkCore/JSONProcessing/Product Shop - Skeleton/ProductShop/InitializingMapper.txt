@@ -1,0 +1,6 @@
+ 
+ 
+ Mapper.Initialize(x =>
+            {
+                x.AddProfile<ProductShopProfile>();
+            });

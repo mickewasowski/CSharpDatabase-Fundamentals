@@ -1,0 +1,11 @@
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\bin\Debug\netcoreapp2.1\DatabaseFirst.deps.json
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\bin\Debug\netcoreapp2.1\DatabaseFirst.runtimeconfig.json
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\bin\Debug\netcoreapp2.1\DatabaseFirst.runtimeconfig.dev.json
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\bin\Debug\netcoreapp2.1\DatabaseFirst.dll
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\obj\Debug\netcoreapp2.1\DatabaseFirst.csprojAssemblyReference.cache
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\obj\Debug\netcoreapp2.1\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\obj\Debug\netcoreapp2.1\DatabaseFirst.AssemblyInfoInputs.cache
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\obj\Debug\netcoreapp2.1\DatabaseFirst.AssemblyInfo.cs
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\bin\Debug\netcoreapp2.1\DatabaseFirst.pdb
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\obj\Debug\netcoreapp2.1\DatabaseFirst.dll
+C:\MVSProjects\IntroToEntityFrameworkCore\DatabaseFirst\obj\Debug\netcoreapp2.1\DatabaseFirst.pdb

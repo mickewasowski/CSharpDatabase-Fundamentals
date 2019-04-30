@@ -1,0 +1,11 @@
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.deps.json
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.json
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.runtimeconfig.dev.json
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.dll
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csprojAssemblyReference.cache
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.csproj.CoreCompileInputs.cache
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfoInputs.cache
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.AssemblyInfo.cs
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.1\P01_StudentSystem.pdb
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.dll
+C:\MVSProjects\EFCoreEntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.1\P01_StudentSystem.pdb

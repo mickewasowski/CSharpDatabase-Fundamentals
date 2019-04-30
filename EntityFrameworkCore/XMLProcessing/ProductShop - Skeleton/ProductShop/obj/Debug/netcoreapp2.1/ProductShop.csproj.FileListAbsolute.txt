@@ -1,0 +1,11 @@
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\MVSProjects\XMLProcessing\ProductShop - Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

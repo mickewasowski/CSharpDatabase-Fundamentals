@@ -1,0 +1,9 @@
+C:\MVSProjects\Automapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.deps.json
+C:\MVSProjects\Automapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.dll
+C:\MVSProjects\Automapper\Automapper\bin\Debug\netcoreapp2.1\Automapper.pdb
+C:\MVSProjects\Automapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.csprojAssemblyReference.cache
+C:\MVSProjects\Automapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.csproj.CoreCompileInputs.cache
+C:\MVSProjects\Automapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfoInputs.cache
+C:\MVSProjects\Automapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfo.cs
+C:\MVSProjects\Automapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.dll
+C:\MVSProjects\Automapper\Automapper\obj\Debug\netcoreapp2.1\Automapper.pdb

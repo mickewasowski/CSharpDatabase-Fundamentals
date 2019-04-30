@@ -1,0 +1,5 @@
+			
+			
+			XmlSerializer xmlSerializer = new XmlSerializer(typeof(ImportUserDto[]),new XmlRootAttribute("Users"));
+
+            var users = (ImportUserDto[])xmlSerializer.Deserialize(new StringReader(inputXml));

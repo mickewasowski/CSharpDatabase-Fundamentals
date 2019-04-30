@@ -1,0 +1,14 @@
+C:\MVSProjects\AutomapperSecondTry\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+C:\MVSProjects\AutomapperSecondTry\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+C:\MVSProjects\AutomapperSecondTry\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+C:\MVSProjects\AutomapperSecondTry\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+C:\MVSProjects\AutomapperSecondTry\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+C:\MVSProjects\AutomapperSecondTry\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+C:\MVSProjects\AutomapperSecondTry\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+C:\MVSProjects\AutomapperSecondTry\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+C:\MVSProjects\AutomapperSecondTry\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+C:\MVSProjects\AutomapperSecondTry\MyApp\bin\Debug\netcoreapp2.1\Automapper.dll
+C:\MVSProjects\AutomapperSecondTry\MyApp\bin\Debug\netcoreapp2.1\Automapper.pdb
+C:\MVSProjects\AutomapperSecondTry\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CopyComplete
+C:\MVSProjects\AutomapperSecondTry\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+C:\MVSProjects\AutomapperSecondTry\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb

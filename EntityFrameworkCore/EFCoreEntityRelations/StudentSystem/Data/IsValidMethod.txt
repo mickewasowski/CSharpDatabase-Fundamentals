@@ -1,0 +1,9 @@
+ private static bool IsValid(object entity)
+        {
+            var validationContext = new ValidationContext(entity);
+            var validationResults = new List<ValidationResult>();
+
+            bool isValid = Validator.TryValidateObject(entity, validationContext, validationResults, true);
+
+            return isValid;
+        }

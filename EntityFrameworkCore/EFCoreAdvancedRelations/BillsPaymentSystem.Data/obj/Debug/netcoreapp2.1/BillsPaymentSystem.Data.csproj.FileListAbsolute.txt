@@ -1,0 +1,14 @@
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.deps.json
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csprojAssemblyReference.cache
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfo.cs
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.json
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.dev.json
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CopyComplete
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+C:\MVSProjects\EFCoreAdvancedRelations\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb

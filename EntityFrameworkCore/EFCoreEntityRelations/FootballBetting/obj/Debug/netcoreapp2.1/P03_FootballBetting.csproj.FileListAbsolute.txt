@@ -1,0 +1,11 @@
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.deps.json
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.runtimeconfig.json
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.runtimeconfig.dev.json
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.dll
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.csproj.CoreCompileInputs.cache
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.AssemblyInfoInputs.cache
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.AssemblyInfo.cs
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.csprojAssemblyReference.cache
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\bin\Debug\netcoreapp2.1\P03_FootballBetting.pdb
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.dll
+C:\MVSProjects\EFCoreEntityRelations\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.pdb

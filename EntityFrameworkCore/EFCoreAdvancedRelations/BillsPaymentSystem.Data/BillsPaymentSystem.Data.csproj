@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190319195133_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190319195506_InitialCreate.cs" />
+    <Compile Remove="Migrations\20190319195746_InitialCreate.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BillsPaymentSystem.Models\BillsPaymentSystem.Models.csproj" />
+  </ItemGroup>
+
+</Project>

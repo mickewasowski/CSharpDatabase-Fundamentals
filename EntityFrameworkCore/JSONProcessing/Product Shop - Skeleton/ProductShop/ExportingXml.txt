@@ -1,0 +1,27 @@
+С XML НЕ МОЖЕ ДА СЕ ПОЛЗВАТ АНОНИМНИ ОБЕКТИ!!!!! ЗАДЪЛЖИТЕЛНО DTO!!!!
+
+var products = context
+                .Products
+                .Where(x => x.Price >= 500 && x.Price <= 1000)
+                .Select(x => new ExportProductInRangeDto
+                {
+                    Name = x.Name,
+                    Price = x.Price,
+                    //Buyer = $"{x.Buyer.FirstName} {x.Buyer.LastName}"
+                })
+                .Take(10)
+                .OrderBy(x => x.Price)
+                .ToArray();
+
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(ExportProductInRangeDto[]), new XmlRootAttribute("Products"));
+
+            var sb = new StringBuilder();
+
+            var namespaces = new XmlSerializerNamespaces(new[]
+            {
+                new XmlQualifiedName("","")
+            });
+
+            xmlSerializer.Serialize(new StringWriter(sb), products, namespaces);
+
+            return sb.ToString().TrimEnd();
